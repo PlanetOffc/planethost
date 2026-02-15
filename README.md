@@ -1,6 +1,10 @@
-# Catbox Uploader 
+## 📦 Response
 
-API sederhana untuk upload file ke Catbox menggunakan URL.  
-Dibuat oleh planetoffc
-
-## Enddd
+{
+  "status": true,
+  "creator": "PlanetOffc",
+  "deskripsi": "Dibuat Untuk Para Dev Esce"
+  "result": {
+    "catbox": "https://files.catbox.moe/xxxxx.mp4"
+  }
+}
